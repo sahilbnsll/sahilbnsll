@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learning some Programming Languages.
-- ⚡ Fun fact: We used to beleive Earth is "FLAT".
+- ⚡ Fun fact: We used to believe Earth is "FLAT".
 
 ### Connect with me:
 
