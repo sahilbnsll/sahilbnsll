@@ -18,6 +18,6 @@
 <img align="left" alt="Sahil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
 <a href="https://github.com/sahilbnsll">
-  <img align="left" alt="Sahil | GitHub" width="22px" src="https://github.githubassets.com/images/modules/open_graph/github-mark.png" />
+  <img align="left" alt="Sahil | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
   </a>
   
