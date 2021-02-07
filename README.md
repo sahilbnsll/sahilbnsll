@@ -17,7 +17,5 @@
 <a href="https://www.instagram.com/the_sahilbansal/">
 <img align="left" alt="Sahil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
-<a href="https://github.com/sahilbnsll">
-  <img align="left" alt="Sahil | GitHub" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
-  </a>
+
   
