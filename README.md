@@ -25,7 +25,7 @@
 <img align="left" alt="Sahil | Instagram" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/733/733558.svg?token=exp=1613586974~hmac=69c16c056050d6b4e4d9cbf27a3d7c3e" />
   </a>
   <br>
- ##  My Commit Streak:
+ <h3>  My Commit Streak: </h3>
   </br>
   <p>
  <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="310px alt="programmergif">
