@@ -1,7 +1,6 @@
 ### Hi there, I'm Sahil! 👋
 ## I'm a Student || Learner || Developer
-<p align="left">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -20,9 +19,19 @@
 <a href="https://www.instagram.com/the_sahilbansal/">
 <img align="left" alt="Sahil | Instagram" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/733/733558.svg?token=exp=1613586974~hmac=69c16c056050d6b4e4d9cbf27a3d7c3e" />
   </a>
-  <br>
   
-## My Github Stats 
-</br>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sahilbnsll&show_icons=true&theme=gotham" alt="sahilbansal" />
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
+  <p>
+ <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="310px alt="programmergif">
+</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilbnsll&theme=tokyonight_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+<details>
+  <summary>🌟 GitHub Stats</summary>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahilbnsll&show_icons=true&theme=merko" />
+</details>
+
+<details>
+  <summary>📚 Most Used Languages</summary>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbnsll&layout=compact" />
+</details>
