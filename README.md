@@ -7,6 +7,10 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learning some Programming Languages.
 - ⚡ Fun fact: We used to believe Earth is "FLAT".
+<h3> <p allign= left> My GitHub Stats: </h3>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahilbnsll&show_icons=true&theme=merko" />
+<h3> <p allign= left> Most Used Languages: </h3>
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbnsll&layout=compact" />
 
 ### Connect with me:
 
@@ -27,14 +31,3 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilbnsll&&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-<details>
-  <summary>🌟 GitHub Stats</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahilbnsll&show_icons=true&theme=merko" />
-</details>
-<br>
-
-<details>
-  <summary>📚 Most Used Languages</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbnsll&layout=compact" />
-</details>
-</br>
