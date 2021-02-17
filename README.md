@@ -1,4 +1,5 @@
 ### Hi there, I'm Sahil! 👋
+![Profile views](https://gpvc.arturio.dev/sahilbnsll?v=3)
 ## I'm a Student || Learner || Developer
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
@@ -24,7 +25,7 @@
  <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="310px alt="programmergif">
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilbnsll&theme=tokyonight_duo)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilbnsll&&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 <details>
   <summary>🌟 GitHub Stats</summary>
