@@ -7,12 +7,12 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learning some Programming Languages.
 - ⚡ Fun fact: We used to believe Earth is "FLAT".
-<h3> <p allign= left> My GitHub Stats: </h3>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahilbnsll&show_icons=true&theme=merko" />
-<h3> <p allign= left> Most Used Languages: </h3>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbnsll&layout=compact" />
+<h3> <p allign= left> My GitHub Stats:</h3>
+  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahilbnsll&show_icons=true&theme=merko" />
+<h3>  Most Used Languages: </h3>
+  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbnsll&layout=compact" />
 
-### Connect with me:
+## Connect with me:
 
 
 <a href="https://twitter.com/sahilbansalll">
@@ -24,7 +24,9 @@
 <a href="https://www.instagram.com/the_sahilbansal/">
 <img align="left" alt="Sahil | Instagram" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/733/733558.svg?token=exp=1613586974~hmac=69c16c056050d6b4e4d9cbf27a3d7c3e" />
   </a>
-  
+  <br>
+ ## <h3> My Commit Streak: </h3>
+  </br>
   <p>
  <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="310px alt="programmergif">
 </p>
