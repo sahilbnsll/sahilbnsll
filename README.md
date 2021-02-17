@@ -12,10 +12,10 @@
 <img align="left" alt="Sahil | Twitter" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/124/124021.svg?token=exp=1613586486~hmac=967565fdc12c18767a429fad3f84ccf1"/>
   </a>
 <a href="https://www.linkedin.com/in/sahil-bansal-23905818b">
-  <img align="left" alt="Sahil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Sahil | LinkedIn" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613586931~hmac=2468cd9812e0296a455f8f6e699fdb07" />
   </a>
 <a href="https://www.instagram.com/the_sahilbansal/">
-<img align="left" alt="Sahil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="Sahil | Instagram" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/733/733558.svg?token=exp=1613586974~hmac=69c16c056050d6b4e4d9cbf27a3d7c3e" />
   </a>
 
   
