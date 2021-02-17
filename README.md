@@ -9,7 +9,7 @@
 
 
 <a href="https://twitter.com/sahilbansalll">
-<img align="left" alt="Sahil | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<img align="left" alt="Sahil | Twitter" width="22px" src=" https://img.icons8.com/cute-clipart/2x/twitter.png" />
   </a>
 <a href="https://www.linkedin.com/in/sahil-bansal-23905818b">
   <img align="left" alt="Sahil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
