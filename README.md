@@ -17,5 +17,9 @@
 <a href="https://www.instagram.com/the_sahilbansal/">
 <img align="left" alt="Sahil | Instagram" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/733/733558.svg?token=exp=1613586974~hmac=69c16c056050d6b4e4d9cbf27a3d7c3e" />
   </a>
-
+  <br>
   
+## My Github Stats 
+</br>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sahilbnsll&show_icons=true&theme=gotham" alt="sahilbansal" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="360" height="200" />
