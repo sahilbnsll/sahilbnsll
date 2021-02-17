@@ -22,4 +22,4 @@
 ## My Github Stats 
 </br>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=sahilbnsll&show_icons=true&theme=gotham" alt="sahilbansal" />
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="360" height="200" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" />
