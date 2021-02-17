@@ -1,5 +1,8 @@
 ### Hi there, I'm Sahil! 👋
 ## I'm a Student || Learner || Developer
+<p align="left">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learning some Programming Languages.
