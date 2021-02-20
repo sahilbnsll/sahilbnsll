@@ -8,7 +8,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learning some Programming Languages.
 - ⚡ Fun fact: We used to believe Earth is "FLAT".
 <h3> <p allign= left> My GitHub Stats:</h3>
-  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahilbnsll&show_icons=true&theme=merko" />
+  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahilbnsll&show_icons=true&theme=midnight-purple&show_icons=true" />
 <h3>  Most Used Languages: </h3>
   <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbnsll&layout=compact" />
 
