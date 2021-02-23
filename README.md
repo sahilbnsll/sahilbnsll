@@ -1,6 +1,6 @@
 ### Hi there, I'm Sahil! 👋
 ![Profile views](https://gpvc.arturio.dev/sahilbnsll?v=3)
-## I'm a Student || Learner || Developer
+## I'm a Student || Learner || Developer.
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 - 🌱 I’m currently learning everything 🤣
