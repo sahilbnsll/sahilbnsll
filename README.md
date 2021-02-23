@@ -30,6 +30,5 @@
   <p>
  <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="310px alt="programmergif">
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sahilbnsll&&hide_border=true)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilbnsll&theme=midnight-purple" /></p>
 
