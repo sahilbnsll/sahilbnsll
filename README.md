@@ -15,13 +15,13 @@
 ## Connect with me:
 
 
-<a href="https://twitter.com/sahilbansalll">
+<a href="https://twitter.com/sahilbansalll"target="_blank">>
 <img align="left" alt="Sahil | Twitter" width="40px" src="https://i.ibb.co/vZ4Bb2T/iconfinder-twitter-square-social-media-764945.png"/>
   </a>
-<a href="https://www.linkedin.com/in/sahil-bansal-23905818b">
+<a href="https://www.linkedin.com/in/sahil-bansal-23905818b"target="_blank">>
   <img align="left" alt="Sahil | LinkedIn" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613586931~hmac=2468cd9812e0296a455f8f6e699fdb07" />
   </a>
-<a href="https://www.instagram.com/the_sahilbansal/">
+<a href="https://www.instagram.com/the_sahilbansal/"target="_blank">>
 <img align="left" alt="Sahil | Instagram" width="40px" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1614514613~hmac=2093c79b3dbcadf199ee320db83abcba" />
   </a>
   <br>
