@@ -2,7 +2,7 @@
 ![Profile views](https://gpvc.arturio.dev/sahilbnsll?v=3)
 ## I'm a Student || Learner || Developer.
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
-l
+
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learning some Programming Languages.
@@ -19,10 +19,10 @@ l
 <img align="left" alt="Sahil | Twitter" width="40px" src="https://github.com/sahilbnsll/sahilbnsll/blob/f6db0514e55afea89ff32ed2599468ec38e4237b/A/twitter.png"/>
   </a>
 <a href="https://www.linkedin.com/in/sahil-bansal-23905818b">
-  <img align="left" alt="Sahil | LinkedIn" width="40px" src="https://github.com/sahilbnsll/sahilbnsll/blob/f6db0514e55afea89ff32ed2599468ec38e4237b/A/linkedin.png" />
+  <img align="left" alt="Sahil | LinkedIn" width="40px" src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" />
   </a>
-<a href="https://www.instagram.com/the_sahilbansal/>
-<img align="left" alt="Sahil | Instagram" width="40px" src="https://github.com/sahilbnsll/sahilbnsll/blob/f6db0514e55afea89ff32ed2599468ec38e4237b/A/instagram.png" />
+<a href="https://www.instagram.com/the_sahilbansal>
+<img align="left" alt="Sahil | Instagram" width="400px" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-social-media-icon-social-media-icon-set-logo-2.png" />
   </a>
   <br>
  <h3>  My Commit Streak: </h3>
