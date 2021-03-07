@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🎓 I'm Currently Studing in <a href="https://www.upes.ac.in/">University of Petroleum and Energy Studies.</a>
+- 🎓 I'm Currently Studing in <a href="https://www.upes.ac.in/" target="_blank">University of Petroleum and Energy Studies.</a>
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learning some Programming Languages.
 - ⚡ Fun fact: We used to believe Earth is "FLAT".
 <h3> <p allign= left> My GitHub Stats:</h3>
