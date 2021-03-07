@@ -16,14 +16,14 @@
 ## Connect with me:
 
 
-<a href="https://twitter.com/sahilbansalll">
+<a href="https://twitter.com/sahilbansalll" target="_blank">
 <img align="left" alt="Sahil | Twitter" width="40px" src="https://github.com/sahilbnsll/sahilbnsll/blob/f6db0514e55afea89ff32ed2599468ec38e4237b/A/twitter.png"/>
   </a>
-<a href="https://www.linkedin.com/in/sahil-bansal-23905818b">
+<a href="https://www.linkedin.com/in/sahil-bansal-23905818b" target="_blank">
   <img align="left" alt="Sahil | LinkedIn" width="40px" src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" />
   </a>
   
-  <a href="https://www.instagram.com/the_sahilbansal/">
+  <a href="https://www.instagram.com/the_sahilbansal/" target="_blank">
   <img align="left" alt="Sahil | Instagram" width="50px" height="45px" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-social-media-icon-social-media-icon-set-logo-2.png" />
   </a>
 
