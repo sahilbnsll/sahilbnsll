@@ -1,7 +1,7 @@
 ### Hi there, I'm Sahil! 👋
 ![Profile views](https://gpvc.arturio.dev/sahilbnsll?v=3)
 ## I'm a Student || Learner || Developer.
-<p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<p  align="center"><img src="https://github.com/sahilbnsll/sahilbnsll/blob/b1a43704d9430d3ef71a5d0bfe043bdad26b3236/A/desktopuser.gif" alt="Coder GIF" width="500" height="400">
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -20,18 +20,18 @@
 <img align="left" alt="Sahil | Twitter" width="40px" src="https://github.com/sahilbnsll/sahilbnsll/blob/f6db0514e55afea89ff32ed2599468ec38e4237b/A/twitter.png"/>
   </a>
 <a href="https://www.linkedin.com/in/sahil-bansal-23905818b" target="_blank">
-  <img align="left" alt="Sahil | LinkedIn" width="40px" src="https://www.freepnglogos.com/uploads/linkedin-blue-style-logo-png-0.png" />
+  <img align="left" alt="Sahil | LinkedIn" width="40px" src="https://github.com/sahilbnsll/sahilbnsll/blob/b1a43704d9430d3ef71a5d0bfe043bdad26b3236/A/linkedin.png" />
   </a>
   
   <a href="https://www.instagram.com/the_sahilbansal/" target="_blank">
-  <img align="left" alt="Sahil | Instagram" width="50px" height="45px" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-social-media-icon-social-media-icon-set-logo-2.png" />
+  <img align="left" alt="Sahil | Instagram" width="50px" height="45px" src="https://github.com/sahilbnsll/sahilbnsll/blob/b1a43704d9430d3ef71a5d0bfe043bdad26b3236/A/instagram.png" />
   </a>
 
   <br>
  <h3>  My Commit Streak: </h3>
   </br>
   <p>
- <img align="right" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/programmer.gif" width="310px alt="programmergif">
+ <img align="right" src="https://github.com/sahilbnsll/sahilbnsll/blob/b1a43704d9430d3ef71a5d0bfe043bdad26b3236/A/programmer.gif" width="310px alt="programmergif">
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilbnsll&theme=midnight-purple" /></p>
 
