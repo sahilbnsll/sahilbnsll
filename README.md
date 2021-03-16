@@ -12,7 +12,7 @@
   <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahilbnsll&show_icons=true&theme=midnight-purple&show_icons=true" />
   <h3> Languages I Know </h3>
   <a href="https://www.cprogramming.com/>
-  <img src="https://github.com/sahilbnsll/sahilbnsll/blob/79657f9c7bcb4e22894ed5f6bc30d0d5d0dc07b9/A/C-Language.png" width="50px">
+  <img align-"left" src="https://github.com/sahilbnsll/sahilbnsll/blob/79657f9c7bcb4e22894ed5f6bc30d0d5d0dc07b9/A/C-Language.png" width="50px">
   <a>
    
   
@@ -32,7 +32,7 @@
 <img align="left" alt="Sahil | Twitter" width="40px" src="https://github.com/sahilbnsll/sahilbnsll/blob/f6db0514e55afea89ff32ed2599468ec38e4237b/A/twitter.png"/>
   </a>
 <a href="https://www.linkedin.com/in/sahil-bansal-23905818b" target="_blank">
-  <img align="left" alt="Sahil | LinkedIn" width="40px" src="https://github.com/sahilbnsll/sahilbnsll/blob/b1a43704d9430d3ef71a5d0bfe043bdad26b3236/A/linkedin.png" />
+  <img align="left" alt="Sahil | LinkedIn" width="40px" src="https://github.com/sahilbnsll/sahilbnsll/blob/180fbb14edf175e9a679a8b91baf76f40eb04369/A/LinkedIN.png" />
   </a>
   
   <a href="https://www.instagram.com/the_sahilbansal/" target="_blank">
