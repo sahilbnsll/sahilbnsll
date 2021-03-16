@@ -10,6 +10,13 @@
 - ⚡ Fun fact: We used to believe Earth is "FLAT".
 <h3> <p allign= left> My GitHub Stats:</h3>
   <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahilbnsll&show_icons=true&theme=midnight-purple&show_icons=true" />
+  <h3> Languages I Know </h3>
+  <a href="https://www.cprogramming.com/>
+  <img src="https://github.com/sahilbnsll/sahilbnsll/blob/79657f9c7bcb4e22894ed5f6bc30d0d5d0dc07b9/A/C-Language.png" width="50px">
+  <a>
+   
+  
+  
 <h3>  Most Used Languages: </h3>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbnsll&theme=midnight-purple" />
   
