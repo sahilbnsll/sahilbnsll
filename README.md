@@ -13,11 +13,11 @@
   <h3> Languages I Know </h3>
   <p align="left"> 
   
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/sahilbnsll/sahilbnsll/blob/37c5d7add9a5898a02f5f62348772a0a2c9cdf74/A/C-Language.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/sahilbnsll/sahilbnsll/blob/37c5d7add9a5898a02f5f62348772a0a2c9cdf74/A/C++.svg" alt="cplusplus" width="40" height="40"/></a> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://github.com/sahilbnsll/sahilbnsll/blob/37c5d7add9a5898a02f5f62348772a0a2c9cdf74/A/JAVA.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/sahilbnsll/sahilbnsll/blob/37c5d7add9a5898a02f5f62348772a0a2c9cdf74/A/HTML5.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/"> <img src="https://github.com/sahilbnsll/sahilbnsll/blob/1599b194ee945f1d979e93b6b0e377ebf94d0403/A/CSS3.svg" alt="CSS3" width="40" height="40"/>  </a>
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/sahilbnsll/sahilbnsll/blob/37c5d7add9a5898a02f5f62348772a0a2c9cdf74/A/C-Language.svg" alt="c" width="52" height="52"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://github.com/sahilbnsll/sahilbnsll/blob/37c5d7add9a5898a02f5f62348772a0a2c9cdf74/A/C++.svg" alt="cplusplus" width="52" height="52"/></a> 
+  <a href="https://www.java.com" target="_blank"> <img src="https://github.com/sahilbnsll/sahilbnsll/blob/37c5d7add9a5898a02f5f62348772a0a2c9cdf74/A/JAVA.svg" alt="java" width="52" height="52"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/sahilbnsll/sahilbnsll/blob/37c5d7add9a5898a02f5f62348772a0a2c9cdf74/A/HTML5.svg" alt="html5" width="52" height="52"/> </a> 
+  <a href="https://www.w3schools.com/css/"> <img src="https://github.com/sahilbnsll/sahilbnsll/blob/1599b194ee945f1d979e93b6b0e377ebf94d0403/A/CSS3.svg" alt="CSS3" width="52" height="52"/>  </a>
   </p>
   
   
