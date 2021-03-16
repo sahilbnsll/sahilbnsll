@@ -11,7 +11,11 @@
 <h3> <p allign= left> My GitHub Stats:</h3>
   <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahilbnsll&show_icons=true&theme=midnight-purple&show_icons=true" />
 <h3>  Most Used Languages: </h3>
-  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbnsll&theme=midnight-purple" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbnsll&theme=midnight-purple" />
+  
+  <p>
+ <img align="right" src="https://github.com/sahilbnsll/sahilbnsll/blob/b1a43704d9430d3ef71a5d0bfe043bdad26b3236/A/programmer.gif" width="310px alt="programmergif">
+</p>
 
 ## Connect with me:
 
@@ -30,8 +34,5 @@
   <br>
  <h3>  My Commit Streak: </h3>
   </br>
-  <p>
- <img align="right" src="https://github.com/sahilbnsll/sahilbnsll/blob/b1a43704d9430d3ef71a5d0bfe043bdad26b3236/A/programmer.gif" width="310px alt="programmergif">
-</p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilbnsll&theme=midnight-purple" /></p>
 
