@@ -9,12 +9,15 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learning some Programming Languages.
 - ⚡ Fun fact: We used to believe Earth is "FLAT".
 <h3> <p allign= left> My GitHub Stats:</h3>
-  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahilbnsll&show_icons=true&theme=midnight-purple&show_icons=true" />
+  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahilbnsll&show_icons=true&theme=midnight-purple&show_icons=true" >
   <h3> Languages I Know </h3>
-  <a href="https://www.cprogramming.com/>
-  <img align-"left" src="https://github.com/sahilbnsll/sahilbnsll/blob/79657f9c7bcb4e22894ed5f6bc30d0d5d0dc07b9/A/C-Language.png" width="50px">
-  <a>
-   
+  <p align="left"> 
+  
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> 
+  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  </p>
   
   
 <h3>  Most Used Languages: </h3>
