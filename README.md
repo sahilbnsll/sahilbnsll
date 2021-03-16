@@ -1,7 +1,7 @@
 ### Hi there, I'm Sahil! 👋
 ![Profile views](https://gpvc.arturio.dev/sahilbnsll?v=3)
 ## I'm a Student || Learner || Developer.
-<p  align="center"><img src="https://github.com/sahilbnsll/sahilbnsll/blob/b1a43704d9430d3ef71a5d0bfe043bdad26b3236/A/desktopuser.gif" alt="Coder GIF" width="500" height="400">
+<p  align="center"><img src="https://github.com/sahilbnsll/sahilbnsll/blob/a64f680327534439706e299714abcfed0694e1ce/A/Coder.gif" alt="Coder GIF" width="500" height="400">
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
