@@ -14,8 +14,9 @@
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbnsll&theme=midnight-purple" />
   
   <p>
- <img align="right" src="https://github.com/sahilbnsll/sahilbnsll/blob/b1a43704d9430d3ef71a5d0bfe043bdad26b3236/A/programmer.gif" width="310px alt="programmergif">
+ <img align="center" src="https://github.com/sahilbnsll/sahilbnsll/blob/b1a43704d9430d3ef71a5d0bfe043bdad26b3236/A/programmer.gif" height="275px" width="440px" alt="programmergif">
 </p>
+
 
 ## Connect with me:
 
