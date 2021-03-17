@@ -35,7 +35,7 @@
   <p>
  <img align="center" src="https://github.com/sahilbnsll/sahilbnsll/blob/b1a43704d9430d3ef71a5d0bfe043bdad26b3236/A/programmer.gif" height="275px" width="440px" alt="programmergif">
 </p>
-## Connect with me:
+<h3> Connect with me: </h3>
 
 
 <a href="https://twitter.com/sahilbansalll" target="_blank">
