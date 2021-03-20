@@ -3,10 +3,10 @@
 ## I'm a Student || Learner || Developer.
 <p  align="center"><img src="https://github.com/sahilbnsll/sahilbnsll/blob/a64f680327534439706e299714abcfed0694e1ce/A/Coder.gif" alt="Coder GIF" width="500" height="400">
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Java.
 - 👯 I’m looking to collaborate with other content creators
 - 🎓 I'm Currently Studing in <a href="https://www.upes.ac.in/" target="_blank">University of Petroleum and Energy Studies.</a>
-- 🥅 2021 Goals: Contribute more to Open Source projects and Learning some Programming Languages.
+- 🥅 2021 Goals: Contribute more to Open Source projects and Complete one minor project.
 - ⚡ Fun fact: We used to believe Earth is "FLAT".
 <h3> <p allign= left> My GitHub Stats:</h3>
   <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahilbnsll&show_icons=true&theme=midnight-purple&show_icons=true" >
