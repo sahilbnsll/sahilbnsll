@@ -26,6 +26,7 @@
   <a href="https://www.jenkins.io/"> <img alt="Jenkins" src="https://github.com/sahilbnsll/sahilbnsll/blob/5a2b9aa644c6664f25d0a49a7f107dd598b6122a/A/Jenkins.svg" witdh="58" height="58" />
     <a href="https://www.mysql.com/"><img alt="Mysql" src="https://github.com/sahilbnsll/sahilbnsll/blob/5a2b9aa644c6664f25d0a49a7f107dd598b6122a/A/MYSQL.png" witdh="58" height="58" />
   <a href="https://code.visualstudio.com/"> <img alt="VS Code" src="https://github.com/sahilbnsll/sahilbnsll/blob/5a2b9aa644c6664f25d0a49a7f107dd598b6122a/A/VS%20Code.svg" witdh="58" height="58" />
+    <a href="https://www.jetbrains.com/idea/"> <img alt="Intellij Idea" src="https://github.com/sahilbnsll/sahilbnsll/blob/cf0cff60c4472b080fa41bb5fd1eec190534b558/A/Intellij%20Idea.svg" witdh="58" height="58" />
     
   </p>
     
