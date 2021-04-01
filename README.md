@@ -9,6 +9,7 @@
 - 🎓 I'm Currently Studing in <a href="https://www.upes.ac.in/" target="_blank">University of Petroleum and Energy Studies.</a>
 - 🥅 2021 Goals: Contribute more to Open Source projects and Complete one minor project.
 - ⚡ Fun fact: We used to believe Earth is "FLAT".
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/sahil-bansal-23905818b/">Sahil Bansal</a>
 <h3> <p allign= left> My GitHub Stats:</h3>
   <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahilbnsll&show_icons=true&theme=midnight-purple&show_icons=true" >
   <h3> Languages I Know </h3>
