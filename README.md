@@ -21,6 +21,7 @@
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/sahilbnsll/sahilbnsll/blob/37c5d7add9a5898a02f5f62348772a0a2c9cdf74/A/HTML5.svg" alt="html5" width="58" height="58"/> </a> 
   <a href="https://www.w3schools.com/css/"> <img src="https://github.com/sahilbnsll/sahilbnsll/blob/1599b194ee945f1d979e93b6b0e377ebf94d0403/A/CSS3.svg" alt="CSS3" width="58" height="58"/>  </a>
  <a href="https://www.shellscript.sh/"> <img src="https://github.com/sahilbnsll/sahilbnsll/blob/5a2b9aa644c6664f25d0a49a7f107dd598b6122a/A/Shell%20Scripting.png" alt="Shell Scripting" width="58" height="58"/>  </a>
+  <a href="https://www.python.org/"> <img src="https://github.com/sahilbnsll/sahilbnsll/blob/62c03e3651997f3bf7ad8bf685d659976e04a442/A/Python.png" alt="Python" width="58" height="58" /> </a>
   </p>
 <h3> Tools I Use </h3>
 <p align="left">
