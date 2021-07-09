@@ -11,8 +11,11 @@
 - ⚡ Fun fact: We used to believe Earth is "FLAT".
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sahil-bansal-23905818b/">Sahil Bansal</a>
 <h3> <p allign= left> My GitHub Stats:</h3>
-  <img align="center" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahilbnsll&show_icons=true&theme=midnight-purple&show_icons=true" >
-  <h3>My Activity Graph:</h3>
+  <img align="left" alt="Sahil's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahilbnsll&show_icons=true&theme=midnight-purple&show_icons=true" >
+  
+  <img align="center" alt="Function GIF" src="https://github.com/sahilbnsll/sahilbnsll/blob/b0307adaf31ceda00dfba85e7531f91bb26814ed/A/Function.gif" height="195" width="195">
+  </p>
+  <h3 align="left">My Activity Graph:</h3>
   
   [![Sahil's github activity graph](https://activity-graph.herokuapp.com/graph?username=sahilbnsll&theme=react-dark)](https://github.com/sahilbnsll/github-readme-activity-graph)
 
