@@ -35,8 +35,10 @@
     <a href="https://www.mysql.com/"><img alt="Mysql" src="https://github.com/sahilbnsll/sahilbnsll/blob/5a2b9aa644c6664f25d0a49a7f107dd598b6122a/A/MYSQL.png" witdh="58" height="58" />
   <a href="https://code.visualstudio.com/"> <img alt="VS Code" src="https://github.com/sahilbnsll/sahilbnsll/blob/5a2b9aa644c6664f25d0a49a7f107dd598b6122a/A/VS%20Code.svg" witdh="58" height="58" />
     <a href="https://www.jetbrains.com/idea/"> <img alt="Intellij Idea" src="https://github.com/sahilbnsll/sahilbnsll/blob/cf0cff60c4472b080fa41bb5fd1eec190534b558/A/Intellij%20Idea.svg" witdh="58" height="58" />
-    
-  </p>
+    <a href="https://developer.android.com/studio">
+      <img alt="Android Studio" src="https://github.com/sahilbnsll/sahilbnsll/blob/e748d2c7863cfe4da6172115da7df8f6771371e7/A/Android%20Studio.png" height= "70" width="70">
+      </a>
+      </p>
     
 <h3>  Most Used Languages: </h3>
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbnsll&theme=midnight-purple" />
