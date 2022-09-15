@@ -4,7 +4,7 @@
 <p  align="center"><img src="https://github.com/sahilbnsll/sahilbnsll/blob/a64f680327534439706e299714abcfed0694e1ce/A/Coder.gif" alt="Coder GIF" width="500" height="400">
 
 - 🌱 I’m currently learning Java.
-- 😴 I'm Currently Working on  __Brushing up my skills__
+- 😴 I'm Currently Working on  __DevOps__
 - 👯 I’m looking to collaborate with other creators
 - 🎓 I'm Currently Studing in <a href="https://www.upes.ac.in/" target="_blank">University of Petroleum and Energy Studies.</a>
 - 🥅 2022 Goals: Secure a good job to start my career.
