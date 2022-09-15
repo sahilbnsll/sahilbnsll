@@ -4,11 +4,10 @@
 <p  align="center"><img src="https://github.com/sahilbnsll/sahilbnsll/blob/a64f680327534439706e299714abcfed0694e1ce/A/Coder.gif" alt="Coder GIF" width="500" height="400">
 
 - 🌱 I’m currently learning Java.
-- 😴 I'm Currently Working on  __Learning Python__
-- 👯 I’m looking to collaborate with other content creators
+- 😴 I'm Currently Working on  __Brushing up my skills__
+- 👯 I’m looking to collaborate with other creators
 - 🎓 I'm Currently Studing in <a href="https://www.upes.ac.in/" target="_blank">University of Petroleum and Energy Studies.</a>
-- 🥅 2021 Goals: Contribute more to Open Source projects and Complete one minor project.
-- ⚡ Fun fact: We used to believe Earth is "FLAT".
+- 🥅 2022 Goals: Secure a good job to start my career.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sahil-bansal-23905818b/">Sahil Bansal</a>
 <h3> <p allign= left> My GitHub Stats:</h3>
   <img align="left" alt="Sahil's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sahilbnsll&show_icons=true&theme=midnight-purple&show_icons=true" >
