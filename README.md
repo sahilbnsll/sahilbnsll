@@ -133,16 +133,16 @@ achievements:
 ### 🔄 CI/CD & Automation
 
 <p>
-  <img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,ansible&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins&theme=dark" />
 </p>
-<p><code>GitHub Actions</code> <code>Jenkins</code> <code>GitLab</code> <code>Ansible</code></p>
+<p><code>GitHub Actions</code> <code>Jenkins</code></p>
 
 ### 📊 Observability & Monitoring
 
 <p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
 </p>
-<p><code>Prometheus</code> <code>Grafana</code> <code>Elasticsearch</code></p>
+<p><code>Prometheus</code> <code>Grafana</code></p>
 
 ### 💾 Databases & Data Engineering
 
@@ -154,9 +154,9 @@ achievements:
 ### 💻 Programming & Scripting
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash,javascript,typescript,nodejs,react,nextjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,bash&theme=dark" />
 </p>
-<p><code>Python</code> <code>Bash</code> <code>JavaScript</code> <code>TypeScript</code> <code>Node.js</code> <code>React</code> <code>Next.js</code></p>
+<p><code>Python</code> <code>Bash</code> <code>HCL</code> <code>YAML</code></p>
 
 ### 🔧 Tools & Platforms
 
