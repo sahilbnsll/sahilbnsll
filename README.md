@@ -25,9 +25,11 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
 ## 🚀 About Me
+
+<table>
+<tr>
+<td width="60%">
 
 ```yaml
 name: Sahil Bansal
@@ -55,7 +57,14 @@ achievements:
   - Prevented 95% of critical CVEs
 ```
 
-<br clear="right"/>
+</td>
+<td width="40%">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -119,36 +128,42 @@ achievements:
 <p>
   <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux,nginx,redis&theme=dark" />
 </p>
+<p><code>AWS</code> <code>Terraform</code> <code>Docker</code> <code>Kubernetes</code> <code>Linux</code> <code>Nginx</code> <code>Redis</code></p>
 
 ### 🔄 CI/CD & Automation
 
 <p>
   <img src="https://skillicons.dev/icons?i=githubactions,jenkins,gitlab,ansible&theme=dark" />
 </p>
+<p><code>GitHub Actions</code> <code>Jenkins</code> <code>GitLab</code> <code>Ansible</code></p>
 
 ### 📊 Observability & Monitoring
 
 <p>
   <img src="https://skillicons.dev/icons?i=prometheus,grafana,elasticsearch&theme=dark" />
 </p>
+<p><code>Prometheus</code> <code>Grafana</code> <code>Elasticsearch</code></p>
 
 ### 💾 Databases & Data Engineering
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" />
 </p>
+<p><code>PostgreSQL</code> <code>MongoDB</code> <code>MySQL</code> <code>Redis</code></p>
 
 ### 💻 Programming & Scripting
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,bash,javascript,typescript,nodejs,react,nextjs&theme=dark" />
 </p>
+<p><code>Python</code> <code>Bash</code> <code>JavaScript</code> <code>TypeScript</code> <code>Node.js</code> <code>React</code> <code>Next.js</code></p>
 
 ### 🔧 Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
 </p>
+<p><code>Git</code> <code>GitHub</code> <code>VS Code</code> <code>Postman</code> <code>Figma</code></p>
 
 </div>
 
@@ -157,17 +172,17 @@ achievements:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahilbnsll&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&count_private=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilbnsll&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sahilbnsll&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=sahilbnsll&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbnsll&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sahilbnsll&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilbnsll&theme=github-compact&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" alt="Contribution Graph"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahilbnsll&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sahilbnsll&theme=radical&no-frame=true&no-bg=false&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
