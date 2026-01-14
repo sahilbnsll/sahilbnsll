@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20Sahil%20Bansal!&fontSize=42&fontAlignY=32&desc=DevOps%20Engineer%20|%20Cloud%20Architect%20|%20Automation%20Enthusiast&descAlignY=51&descAlign=50&animation=twinkling"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=800&lines=Building+Scalable+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Automating+Everything+%F0%9F%A4%96;Optimizing+AWS+Costs+%F0%9F%92%B0;DevOps+%7C+SRE+%7C+Platform+Engineering+%F0%9F%9A%80)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg" target="_blank"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=800&lines=Building+Scalable+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Automating+Everything+%F0%9F%A4%96;Optimizing+AWS+Costs+%F0%9F%92%B0;DevOps+%7C+SRE+%7C+Platform+Engineering+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
 <p align="center">
   <a href="https://sahilbansal.vercel.app" target="_blank">
@@ -218,7 +218,7 @@ achievements:
 
 <div align="center">
   
-[![Sahil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sahilbnsll&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph" target="_blank"><img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilbnsll&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Sahil's github activity graph" /></a>
 
 </div>
 
