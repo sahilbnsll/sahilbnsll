@@ -154,7 +154,9 @@ achievements:
 ### 💻 Programming & Scripting
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,bash,yaml&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,bash&theme=dark" />
+  <img src="https://img.shields.io/badge/HCL-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="HCL" height="50"/>
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" alt="YAML" height="50"/>
 </p>
 <p><code>Python</code> <code>Bash</code> <code>HCL</code> <code>YAML</code></p>
 
@@ -172,17 +174,13 @@ achievements:
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahilbnsll&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=sahilbnsll&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sahilbnsll&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilbnsll&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sahilbnsll&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilbnsll&theme=github-compact&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" alt="Contribution Graph"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahilbnsll&theme=radical&no-frame=true&no-bg=false&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 
 ---
