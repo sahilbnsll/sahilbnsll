@@ -1,0 +1,33 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 6 * * *" # Daily at 06:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics.svg
+
+          # Base configuration
+          base: ""
+          config_timezone: Asia/Kolkata
+
+          # Isometric contribution calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Coding habits — commit time patterns
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 30
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
