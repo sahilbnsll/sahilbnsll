@@ -1,302 +1,151 @@
-<div align="center">
+# Sahil Bansal
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there,%20I'm%20Sahil%20Bansal!&fontSize=42&fontAlignY=32&desc=DevOps%20Engineer%20|%20Cloud%20Architect%20|%20Automation%20Enthusiast&descAlignY=51&descAlign=50&animation=twinkling"/>
+**DevOps Engineer** · Building cloud infrastructure that doesn't break at 3am.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&random=false&width=800&lines=Building+Scalable+Cloud+Infrastructure+%E2%98%81%EF%B8%8F;Automating+Everything+%F0%9F%A4%96;Optimizing+AWS+Costs+%F0%9F%92%B0;DevOps+%7C+SRE+%7C+Platform+Engineering+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<p align="center">
-  <a href="https://sahilbansal.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-sahilbansal.vercel.app-FF6B35?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sahilbansal24/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sahilbansal.sb24@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://twitter.com/sahilbansalll" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=sahilbnsll&label=Profile%20Views&color=FF6B35&style=for-the-badge" alt="Profile Views"/>
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilbansal24)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://sahilbansal.vercel.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sahilbansal.sb24@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=sahilbnsll&style=flat&color=1a1b27&label=Profile+Views)
 
 ---
 
-## 🚀 About Me
-
-<table>
-<tr>
-<td width="60%">
-
-```yaml
-name: Sahil Bansal
-role: DevOps Engineer
-company: Buyogo AG
-location: India 🇮🇳
-education: B.Tech in Computer Science (UPES)
-
-current_focus:
-  - Multi-tenant cloud infrastructure
-  - Real-time data pipelines
-  - Cost optimization strategies
-  - Infrastructure automation
-
-interests:
-  - Kubernetes & Container Orchestration
-  - Data Engineering & Analytics
-  - Cloud Cost Optimization
-  - DevSecOps & Security
-
-achievements:
-  - Reduced AWS costs by $40k annually
-  - Architected 99.99% uptime infrastructure
-  - 40% faster incident recovery with IaC
-  - Prevented 95% of critical CVEs
-```
-
-</td>
-<td width="40%">
-
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding"/>
-
-</td>
-</tr>
-</table>
+- 🔭 Currently working on **multi-tenant cloud infrastructure** at [Buyogo AG](https://www.buyogo.com)
+- 🌱 Learning **Platform Engineering, ArgoCD, Data Lakehouse patterns**
+- 💬 Ask me about **AWS cost optimization, Terraform, CI/CD pipelines**
+- 📄 [Resume](https://github.com/sahilbnsll/sahilbnsll/blob/main/A/Sahil_Bansal_Resume.pdf)
 
 ---
 
-## 💼 Professional Journey
+## 💼 Experience
 
-<img align="left" height="100" width="100" alt="Buyogo" src="https://github.com/sahilbnsll/sahilbnsll/blob/main/A/buyogo.png?raw=true"/>
+<img src="./A/buyogo.png" width="16" height="16" /> **Software Engineer — DevOps & Cloud** · [Buyogo AG](https://www.buyogo.com) · *Jun 2024 – Present*
+- Architected 99.99% available multi-tenant SFTP platform serving 500+ merchants
+- Reduced AWS spend by ~$40k/year through Fargate Spot, Savings Plans & VPC endpoint optimization
 
-### **Software Engineer — DevOps & Cloud Infrastructure**
+<img src="./A/zabe.png" width="16" height="16" /> **Workflow Automation Engineer** · [ZabeSync](https://sync.zabe.in/) · *Mar 2026 – Apr 2026*
+- Built end-to-end LinkedIn content automation pipeline (n8n + AWS EC2 + Discord control plane)
+- Automated ideation → drafting → publishing with Supabase-backed deduplication
 
-**Buyogo AG** | *Jun 2024 - Present*
+<img src="./A/Capgemini.png" width="16" height="16" /> **Analyst Trainee — Cloud & DevOps** · [Capgemini](https://www.capgemini.com) · *Jan 2024 – Jun 2024*
+- Refactored monolithic CI/CD pipelines — 15% higher success rate
+- Integrated Prometheus alerting with Slack — 20% faster incident response
 
-✨ Architected **99.99% available** multi-tenant FTP platform using SFTP-gateway  
-⚡ Led **ClickOps to Terraform** transformation, reducing TTR by **40%**  
-💰 Reduced AWS spend by **40% (~$40k annually)** using Fargate Spot & Savings Plans  
-📊 Built **real-time data lakehouse** with Dagster, DLT, and ClickHouse  
-🔍 Implemented **service-level observability** with Prometheus and Grafana  
-🔐 Executed zero-downtime **Auth0 tenant migration** for 1,000+ users
-
-<br clear="left"/>
-
-<img align="left" height="100" width="100" alt="Capgemini" src="https://github.com/sahilbnsll/sahilbnsll/blob/main/A/Capgemini.png?raw=true"/>
-
-### **Analyst Trainee — Cloud & DevOps**
-
-**Capgemini** | *Jan 2024 - Jun 2024*
-
-🔄 Refactored monolithic CI/CD pipelines, increasing success rates by **15%**  
-🚨 Integrated Prometheus alerting with Slack, reducing incident response by **20%**
-
-<br clear="left"/>
-
-<img align="left" height="100" width="100" alt="Qapita" src="https://github.com/sahilbnsll/sahilbnsll/blob/main/A/qapita.png?raw=true"/>
-
-### **Software Engineer — DevSecOps**
-
-**Qapita Fintech** | *Jun 2023 - Nov 2023*
-
-🛡️ Embedded security gates in AWS CodeBuild, preventing **95% of critical CVEs**  
-📈 Migrated logging storage to AWS EFS, improving query performance by **30%**
-
-<br clear="left"/>
-
-<img align="left" height="100" width="100" alt="Xebia" src="https://github.com/sahilbnsll/sahilbnsll/blob/main/A/xebia.png?raw=true"/>
-
-### **Software Engineer Intern**
-
-**Xebia** | *Jun 2022 - Jul 2022*
-
-🚀 Automated CI/CD workflows in Azure DevOps and improved front-end performance using ReactJS
-
-<br clear="left"/>
+<img src="./A/qapita.png" width="16" height="16" /> **Software Engineer — DevSecOps** · [Qapita Fintech](https://www.qapita.com) · *Jun 2023 – Nov 2023*
+- Embedded security gates in AWS CodeBuild — prevented 95% of critical CVEs
 
 ---
 
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-### ☁️ Cloud & Infrastructure
+## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,linux,nginx,redis&theme=dark" />
-</p>
-<p><code>AWS</code> <code>Terraform</code> <code>Docker</code> <code>Kubernetes</code> <code>Linux</code> <code>Nginx</code> <code>Redis</code></p>
-
-### 🔄 CI/CD & Automation
-
-<p>
-  <img src="https://skillicons.dev/icons?i=githubactions,jenkins&theme=dark" />
-</p>
-<p><code>GitHub Actions</code> <code>Jenkins</code></p>
-
-### 📊 Observability & Monitoring
-
-<p>
-  <img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" />
-</p>
-<p><code>Prometheus</code> <code>Grafana</code></p>
-
-### 💾 Databases & Data Engineering
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&theme=dark" />
-</p>
-<p><code>PostgreSQL</code> <code>MongoDB</code> <code>MySQL</code> <code>Redis</code></p>
-
-### 💻 Programming & Scripting
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash&theme=dark" />
-  <img src="https://img.shields.io/badge/HCL-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="HCL" height="50"/>
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white" alt="YAML" height="50"/>
-</p>
-<p><code>Python</code> <code>Bash</code> <code>HCL</code> <code>YAML</code></p>
-
-### 🔧 Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
-</p>
-<p><code>Git</code> <code>GitHub</code> <code>VS Code</code> <code>Postman</code> <code>Figma</code></p>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api?username=sahilbnsll&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sahilbnsll&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sahilbnsll&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilbnsll&theme=github-compact&hide_border=true&bg_color=0D1117&color=F75C7E&line=F75C7E&point=FFFFFF" alt="Contribution Graph"/>
-</div>
-
----
-
-## 🏆 Achievements & Impact
-
-<div align="center">
-
-| 🎯 Metric | 📈 Achievement | 💡 Impact |
-|-----------|----------------|-----------|
-| **Uptime** | 99.99% | Multi-tenant FTP platform |
-| **Cost Savings** | $40k/year | AWS optimization & right-sizing |
-| **Recovery Time** | 40% faster | Infrastructure as Code with Terraform |
-| **Security** | 95% CVE prevention | DevSecOps gates in CI/CD |
-| **Performance** | Minutes → Milliseconds | Real-time data lakehouse |
-| **Velocity** | 30% increase | Parallelized CI/CD pipelines |
-
-</div>
-
----
-
-<div align="center">
-  
-## 🎓 Education
-
-**B.Tech in Computer Science Engineering**  
-🏛️ University of Petroleum and Energy Studies (UPES)  
-📅 2019 - 2023
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  
-[![Sahil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sahilbnsll&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🐍 Watch My Contributions Get Eaten
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/sahilbnsll/sahilbnsll/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((DevOps<br/>Journey))
-    Cloud Architecture
-      AWS Advanced Services
-      Multi-cloud Strategy
-      Cost Optimization
-    Container Orchestration
-      Kubernetes Deep Dive
-      Service Mesh
-      GitOps with ArgoCD
-    Data Engineering
-      Real-time Pipelines
-      Data Lakehouse
-      Stream Processing
-    Security & Compliance
-      Zero Trust Architecture
-      Policy as Code
-      Compliance Automation
-```
-
-</div>
-
----
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 15 April 2026 - To: 22 April 2026
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
----
-
-<div align="center">
-
-## 💬 Let's Connect & Collaborate
-
-I'm always excited to discuss **DevOps**, **Cloud Architecture**, **Automation**, and **Open Source**!
-
-<p>
-  <a href="https://sahilbansal.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-FF6B35?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sahilbansal24/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sahilbansal.sb24@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,jenkins,prometheus,grafana,postgres,mongodb,redis,python,bash,linux,git,vscode&theme=dark" />
 </p>
 
-### 💡 *"Automate everything, optimize relentlessly, and build for scale"*
+<details>
+<summary>📋 Full breakdown</summary>
 
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+| Category | Technologies |
+|---|---|
+| **Cloud & Infra** | AWS (ECS, Lambda, RDS, S3, IAM, VPC), Docker, Kubernetes, Nginx |
+| **IaC** | Terraform, CloudFormation, HCL |
+| **CI/CD** | GitHub Actions, Jenkins, AWS CodeBuild |
+| **Observability** | Prometheus, Grafana, CloudWatch, Alertmanager |
+| **Data** | Dagster, DLT, DBT, ClickHouse, Sling |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Redis |
+| **Automation** | n8n, Supabase, Discord Bots, LinkedIn API |
+| **Security** | Auth0, AWS SSO, IAM, DevSecOps |
+
+</details>
+
+---
+
+## 📌 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**LumaCV**](https://luma-cv.vercel.app/) | AI resume builder — 30 min → <60 sec tailoring with multi-LLM failover | Next.js, Supabase, LaTeX |
+| [**Claude Superpack**](https://github.com/sahilbnsll/claude-superpack) | 33-skill agentic system for Claude Code with persistent memory | Node.js, Bash, Markdown |
+| **LinkedIn Automation** | End-to-end content pipeline triggered from Discord | n8n, AWS EC2, Supabase |
+| **Naukri Bot** | Headless resume uploader running 24/7 on Render free tier | Python, Selenium, Docker |
+
+<details>
+<summary>🏗️ Infrastructure projects (at Buyogo AG)</summary>
+
+- **Multi-Tenant SFTP Platform** — 99.99% uptime, 500+ merchants, chroot-isolated
+- **Real-Time Data Pipeline** — Dagster + DLT + ClickHouse (minutes → sub-100ms queries)
+- **IaC Migration** — ClickOps → Terraform, 40% faster MTTR
+- **Observability Platform** — Prometheus + Grafana, 60% lower MTTD
+- **Auth0 Migration** — Zero-downtime cutover for 1,000+ users
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahilbnsll&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sahilbnsll&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilbnsll&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="Contribution Graph"/>
+</picture>
+
+---
+
+## 🧊 3D Contribution Map
+
+<picture>
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions"/>
+</picture>
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahilbnsll/sahilbnsll/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahilbnsll/sahilbnsll/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/sahilbnsll/sahilbnsll/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+---
+
+## 🌊 Ocean Contribution Animation
+
+<picture>
+  <img src="https://raw.githubusercontent.com/sahilbnsll/sahilbnsll/output/ocean.gif" alt="Ocean animation"/>
+</picture>
+
+---
+
+## 📅 Metrics — Isometric Calendar & Coding Habits
+
+<picture>
+  <img src="./github-metrics.svg" alt="Metrics"/>
+</picture>
+
+---
+
+## 💭 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Automate everything, optimize relentlessly, and build for scale."*
+
+[![Portfolio](https://img.shields.io/badge/🌐_sahilbansal.vercel.app-000?style=for-the-badge)](https://sahilbansal.vercel.app)
 
 </div>
