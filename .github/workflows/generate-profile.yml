@@ -53,7 +53,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: dist/github-metrics.svg
+          filename: github-metrics.svg
           output_action: none
           base: ""
           config_timezone: Asia/Kolkata
@@ -61,6 +61,12 @@ jobs:
           plugin_habits: no
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
+      - name: Move Metrics to dist
+        if: matrix.task == 'metrics'
+        run: |
+          mkdir -p dist
+          mv github-metrics.svg dist/ 2>/dev/null || true
 
       # 4. Static Assets (Stats, Streak, Activity Graph)
       - name: Generate Static Assets
