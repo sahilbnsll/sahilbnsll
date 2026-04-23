@@ -106,7 +106,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Watch the Snake Eat My Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahilbnsll/sahilbnsll/output/github-contribution-grid-snake-dark.svg">
@@ -116,15 +116,7 @@
 
 ---
 
-## 🌊 Ocean Contribution Animation
-
-<picture>
-  <img src="https://raw.githubusercontent.com/sahilbnsll/sahilbnsll/output/ocean.gif" alt="Ocean animation"/>
-</picture>
-
----
-
-## 📅 Metrics — Isometric Calendar & Coding Habits
+## 📅 Isometric Calendar & Coding Habits
 
 <picture>
   <img src="./github-metrics.svg" alt="Metrics"/>

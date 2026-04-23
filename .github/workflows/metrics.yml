@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "0 6 * * *" # Daily at 06:00 UTC
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -25,9 +28,10 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-          # Coding habits — commit time patterns
+          # Coding habits
           plugin_habits: yes
           plugin_habits_from: 200
-          plugin_habits_days: 30
+          plugin_habits_days: 14
           plugin_habits_charts: yes
           plugin_habits_trim: yes
+          plugin_habits_charts_type: classic
