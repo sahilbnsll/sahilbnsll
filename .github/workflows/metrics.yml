@@ -21,7 +21,7 @@ jobs:
           filename: github-metrics.svg
 
           # Base configuration
-          base: ""
+          base: activity
           config_timezone: Asia/Kolkata
 
           # Isometric contribution calendar
@@ -30,8 +30,7 @@ jobs:
 
           # Coding habits
           plugin_habits: yes
-          plugin_habits_from: 200
+          plugin_habits_from: 100
           plugin_habits_days: 14
           plugin_habits_charts: yes
           plugin_habits_trim: yes
-          plugin_habits_charts_type: classic
