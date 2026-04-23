@@ -84,8 +84,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahilbnsll&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sahilbnsll&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+  <img width="49%" src="https://raw.githubusercontent.com/sahilbnsll/sahilbnsll/output/github-stats.svg" alt="GitHub Stats"/>
+  <img width="49%" src="https://raw.githubusercontent.com/sahilbnsll/sahilbnsll/output/github-streak.svg" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -93,7 +93,7 @@
 ## 📈 Contribution Graph
 
 <picture>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilbnsll&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true" alt="Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/sahilbnsll/sahilbnsll/output/github-activity-graph.svg" alt="Contribution Graph"/>
 </picture>
 
 ---
@@ -101,7 +101,7 @@
 ## 🧊 3D Contribution Map
 
 <picture>
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contributions"/>
+  <img src="https://raw.githubusercontent.com/sahilbnsll/sahilbnsll/output/profile-night-green.svg" alt="3D Contributions"/>
 </picture>
 
 ---
@@ -119,7 +119,7 @@
 ## 📅 Isometric Contribution Calendar
 
 <picture>
-  <img src="./github-metrics.svg" alt="Metrics"/>
+  <img src="https://raw.githubusercontent.com/sahilbnsll/sahilbnsll/output/github-metrics.svg" alt="Metrics"/>
 </picture>
 
 ---

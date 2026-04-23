@@ -1,0 +1,105 @@
+name: Generate Profile Assets
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        task: [snake, 3d-profile, metrics, static-assets]
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 1. Snake Animation
+      - name: Generate Snake Animation
+        if: matrix.task == 'snake'
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+
+      # 2. 3D Contribution Profile
+      - name: Generate 3D Profile
+        if: matrix.task == '3d-profile'
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Move 3D Profile to dist
+        if: matrix.task == '3d-profile'
+        run: |
+          mkdir -p dist
+          cp profile-3d-contrib/profile-night-green.svg dist/ 2>/dev/null || true
+
+      # 3. Isometric Metrics Calendar
+      - name: Generate Metrics
+        if: matrix.task == 'metrics'
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: dist/github-metrics.svg
+          output_action: none
+          base: ""
+          config_timezone: Asia/Kolkata
+          repositories_affiliations: owner, collaborator, organization_member
+          plugin_habits: no
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      # 4. Static Assets (Stats, Streak, Activity Graph)
+      - name: Generate Static Assets
+        if: matrix.task == 'static-assets'
+        run: |
+          mkdir -p dist
+          curl -s -o dist/github-stats.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true"
+          curl -s -o dist/github-streak.svg "https://github-readme-streak-stats.herokuapp.com?user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&background=0D1117"
+          curl -s -o dist/github-activity-graph.svg "https://github-readme-activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true"
+
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: assets-${{ matrix.task }}
+          path: dist/
+          retention-days: 1
+
+  publish:
+    needs: generate
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Output Branch
+        uses: actions/checkout@v4
+        with:
+          ref: output
+
+      - name: Download all artifacts
+        uses: actions/download-artifact@v4
+        with:
+          path: downloaded-assets
+
+      - name: Publish to output branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Flatten downloaded assets into the root of the output branch
+          cp -R downloaded-assets/*/* ./
+          rm -rf downloaded-assets
+          
+          git add -A .
+          git diff --staged --quiet || git commit -m "chore: update profile assets" && git push origin output
