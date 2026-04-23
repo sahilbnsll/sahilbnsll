@@ -2,7 +2,7 @@ name: GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 6 * * *" # Daily at 06:00 UTC
+    - cron: "0 6 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -21,8 +21,14 @@ jobs:
           filename: github-metrics.svg
 
           # Base configuration
-          base: activity
+          base: ""
           config_timezone: Asia/Kolkata
+
+          # Include private repo contributions
+          repositories_affiliations: owner, collaborator, organization_member
+
+          # Explicitly disable habits (not enough public events)
+          plugin_habits: no
 
           # Isometric contribution calendar
           plugin_isocalendar: yes
