@@ -27,10 +27,3 @@ jobs:
           # Isometric contribution calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
-          # Coding habits
-          plugin_habits: yes
-          plugin_habits_from: 100
-          plugin_habits_days: 14
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes

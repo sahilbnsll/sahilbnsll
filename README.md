@@ -116,7 +116,7 @@
 
 ---
 
-## 📅 Isometric Calendar & Coding Habits
+## 📅 Isometric Contribution Calendar
 
 <picture>
   <img src="./github-metrics.svg" alt="Metrics"/>
