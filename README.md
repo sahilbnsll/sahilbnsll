@@ -13,7 +13,7 @@
 - 🔭 Currently working on **multi-tenant cloud infrastructure** at [Buyogo AG](https://www.buyogo.com)
 - 🌱 Learning **Platform Engineering, ArgoCD, Data Lakehouse patterns**
 - 💬 Ask me about **AWS cost optimization, Terraform, CI/CD pipelines**
-- 📄 [Resume](https://github.com/sahilbnsll/sahilbnsll/blob/main/A/Sahil_Bansal_Resume.pdf)
+- 📄 [Resume](https://sahilbansal-resume.vercel.app/)
 
 ---
 
