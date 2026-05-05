@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilbansal24)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://sahilbansal.vercel.app)
+[![ShowProof](https://img.shields.io/badge/ShowProof-5B4FFF?style=flat&logo=lightning&logoColor=white)](https://showproof.io/@sahil)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sahilbansal.sb24@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=sahilbnsll&style=flat&color=1a1b27&label=Profile+Views)
 
@@ -139,5 +140,6 @@
 *"Automate everything, optimize relentlessly, and build for scale."*
 
 [![Portfolio](https://img.shields.io/badge/🌐_sahilbansal.vercel.app-000?style=for-the-badge)](https://sahilbansal.vercel.app)
+[![ShowProof](https://img.shields.io/badge/ShowProof-5B4FFF?style=for-the-badge)](https://showproof.io/@sahil)
 
 </div>
