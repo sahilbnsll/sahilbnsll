@@ -19,7 +19,7 @@
 
 ## 💼 Experience
 
-<img src="./A/buyogo.png" width="16" height="16" /> **Software Engineer — DevOps & Cloud** · [Buyogo AG](https://www.buyogo.com) · *Jun 2024 – Present*
+<img src="./A/buyogo.png" width="16" height="16" /> **Software Engineer — DevOps & Cloud** · [Buyogo AG](https://www.buyogo.com) · *Jun 2024 – June 2026*
 - Architected 99.99% available multi-tenant SFTP platform serving 500+ merchants
 - Reduced AWS spend by ~$40k/year through Fargate Spot, Savings Plans & VPC endpoint optimization
 
