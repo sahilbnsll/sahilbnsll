@@ -139,7 +139,7 @@
 
 *"Automate everything, optimize relentlessly, and build for scale."*
 
-[![Portfolio](https://img.shields.io/badge/🌐_sahilbansal.vercel.app-000?style=for-the-badge)](https://sahilbansal.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_sahilbansal.net-000?style=for-the-badge)](https://sahilbansal.net/)
 [![ShowProof](https://img.shields.io/badge/ShowProof-5B4FFF?style=for-the-badge)](https://showproof.io/@sahil)
 
 </div>
