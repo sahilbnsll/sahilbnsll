@@ -3,7 +3,7 @@
 **DevOps Engineer** · Building cloud infrastructure that doesn't break at 3am.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilbansal24)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://sahilbansal.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://sahilbansal.net)
 [![ShowProof](https://img.shields.io/badge/ShowProof-5B4FFF?style=flat&logo=lightning&logoColor=white)](https://showproof.io/@sahil)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:sahilbansal.sb24@gmail.com)
 ![Profile Views](https://komarev.com/ghpvc/?username=sahilbnsll&style=flat&color=1a1b27&label=Profile+Views)
@@ -13,7 +13,7 @@
 - 🔭 Currently working on **multi-tenant cloud infrastructure** at [Buyogo AG](https://www.buyogo.com)
 - 🌱 Learning **Platform Engineering, ArgoCD, Data Lakehouse patterns**
 - 💬 Ask me about **AWS cost optimization, Terraform, CI/CD pipelines**
-- 📄 [Resume](https://sahilbansal-resume.vercel.app/)
+- 📄 [Resume](https://resume.sahilbansal.net/)
 
 ---
 
