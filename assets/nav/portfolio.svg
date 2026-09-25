@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="34" viewBox="0 0 116 34" role="img" aria-labelledby="t d" fill="none">
+<title id="t">Portfolio</title>
+<desc id="d">Link: Portfolio</desc>
+<defs><style>
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }@media (prefers-color-scheme: dark){[fill="#0a0a0a"]{fill:#f9fafb}[stroke="#0a0a0a"]{stroke:#f9fafb}[fill="#ffffff"]{fill:#0a0a0a}[stroke="#ffffff"]{stroke:#0a0a0a}}</style></defs>
+
+<rect x="0.5" y="0.5" width="115" height="33" rx="17" fill="#0a0a0a" stroke="#0a0a0a"/>
+<text x="16" y="21.5" fill="#ffffff" font-size="12.5" font-weight="600" textLength="67.5" lengthAdjust="spacing" style="font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">Portfolio</text>
+<path d="M92.5 21 L100.5 13 M94.9 13 L100.5 13 L100.5 18.6" fill="none" stroke="#ffffff" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

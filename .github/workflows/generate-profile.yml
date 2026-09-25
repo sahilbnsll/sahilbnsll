@@ -1,5 +1,8 @@
 name: Generate Profile Assets
 
+# Live README visuals → `output` branch (README links to raw.githubusercontent.com/.../output/*).
+# Static visuals live on main in assets/ (node scripts/build-static.mjs).
+
 on:
   schedule:
     - cron: "0 18 * * *"
@@ -8,74 +11,76 @@ on:
     branches:
       - main
 
+# Read-only by default; only `publish` can write, and third-party actions never see a write token.
 permissions:
-  contents: write
+  contents: read
+
+concurrency:
+  group: profile-assets
+  cancel-in-progress: true
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     strategy:
       fail-fast: false
       matrix:
-        task: [snake, 3d-profile, metrics, static-assets]
+        task: [cards, snake, 3d-profile]
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false
 
-      # 1. Snake Animation
+      # 1. Activity + stats cards (in-repo renderer, brand palette)
+      - name: Setup Node
+        if: matrix.task == 'cards'
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Generate GitHub cards
+        if: matrix.task == 'cards'
+        run: node scripts/build-stats.mjs --user "${{ github.repository_owner }}" --out dist
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN || github.token }}
+
+      # 2. Snake animation (monochrome snake on the brand green ramp)
       - name: Generate Snake Animation
         if: matrix.task == 'snake'
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?palette=github-light&color_snake=#0a0a0a&color_dots=#ebedf0,#bbf7d0,#4ade80,#16a34a,#166534
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#f9fafb&color_dots=#1c1f24,#14532d,#15803d,#22c55e,#4ade80
         env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN || github.token }}
 
-      # 2. 3D Contribution Profile
+      # 3. 3D contribution calendar (light + dark, themed via .github/profile-3d.json)
       - name: Generate 3D Profile
         if: matrix.task == '3d-profile'
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39 # v0.9.3
         env:
-          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN || github.token }}
           USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/profile-3d.json
       - name: Move 3D Profile to dist
         if: matrix.task == '3d-profile'
         run: |
           mkdir -p dist
-          cp profile-3d-contrib/profile-night-green.svg dist/ 2>/dev/null || true
+          cp profile-3d-contrib/profile-3d-dark.svg profile-3d-contrib/profile-3d-light.svg dist/
 
-      # 3. Isometric Metrics Calendar
-      - name: Generate Metrics
-        if: matrix.task == 'metrics'
-        uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: github-metrics.svg
-          output_action: none
-          base: ""
-          config_timezone: Asia/Kolkata
-          repositories_affiliations: owner, collaborator, organization_member
-          plugin_habits: no
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-
-      - name: Move Metrics to dist
-        if: matrix.task == 'metrics'
+      # Never publish an error page as an image: every output must be a real SVG.
+      - name: Validate outputs
         run: |
-          mkdir -p dist
-          mv github-metrics.svg dist/ 2>/dev/null || true
-
-      # 4. Static Assets (Stats, Streak, Activity Graph)
-      - name: Generate Static Assets
-        if: matrix.task == 'static-assets'
-        run: |
-          mkdir -p dist
-          curl -s -o dist/github-stats.svg "https://github-readme-stats.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true"
-          curl -s -o dist/github-streak.svg "https://github-readme-streak-stats.herokuapp.com?user=${{ github.repository_owner }}&theme=tokyonight&hide_border=true&background=0D1117"
-          curl -s -o dist/github-activity-graph.svg "https://github-readme-activity-graph.vercel.app/graph?username=${{ github.repository_owner }}&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true"
+          shopt -s nullglob
+          files=(dist/*.svg)
+          [ ${#files[@]} -gt 0 ] || { echo "::error::no SVGs generated"; exit 1; }
+          for f in "${files[@]}"; do
+            head -c 512 "$f" | grep -q "<svg" || { echo "::error::$f is not an SVG"; exit 1; }
+            echo "ok  $f ($(wc -c < "$f") bytes)"
+          done
 
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
@@ -86,7 +91,12 @@ jobs:
 
   publish:
     needs: generate
+    # Publish whatever succeeded; a failed generator leaves its last good files in place.
+    if: ${{ !cancelled() }}
     runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
     steps:
       - name: Checkout Output Branch
         uses: actions/checkout@v4
@@ -102,10 +112,39 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          
-          # Flatten downloaded assets into the root of the output branch
-          cp -R downloaded-assets/*/* ./
+
+          shopt -s nullglob
+          for dir in downloaded-assets/*/; do cp -R "$dir". ./; done
           rm -rf downloaded-assets
-          
+
+          # Retired visuals (replaced by the in-repo cards and themed 3D map)
+          git rm -q --ignore-unmatch github-stats.svg github-streak.svg github-activity-graph.svg github-metrics.svg profile-night-green.svg
+
           git add -A .
-          git diff --staged --quiet || git commit -m "chore: update profile assets" && git push origin output
+          if git diff --staged --quiet; then
+            echo "No changes to publish."
+          else
+            git commit -m "chore: update profile assets"
+            git push origin output
+          fi
+
+  # Static visuals are committed build output — fail loudly if they drift from their source.
+  static-check:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: assets/ matches scripts/
+        run: |
+          node scripts/build-static.mjs
+          if [ -n "$(git status --porcelain -- assets)" ]; then
+            git status --short -- assets
+            echo "::error::assets/ is stale — run 'node scripts/build-static.mjs' and commit the result"
+            exit 1
+          fi

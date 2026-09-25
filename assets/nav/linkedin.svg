@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="108" height="34" viewBox="0 0 108 34" role="img" aria-labelledby="t d" fill="none">
+<title id="t">LinkedIn</title>
+<desc id="d">Link: LinkedIn</desc>
+<defs><style>
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }@media (prefers-color-scheme: dark){[fill="#ffffff"]{fill:#0a0a0a}[stroke="#d6d9de"]{stroke:#33363c}[fill="#0a0a0a"]{fill:#f9fafb}[stroke="#6b7280"]{stroke:#858b99}}</style></defs>
+
+<rect x="0.5" y="0.5" width="107" height="33" rx="17" fill="#ffffff" stroke="#d6d9de"/>
+<text x="16" y="21.5" fill="#0a0a0a" font-size="12.5" textLength="60" lengthAdjust="spacing" style="font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">LinkedIn</text>
+<path d="M85 21 L93 13 M87.4 13 L93 13 L93 18.6" fill="none" stroke="#6b7280" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
