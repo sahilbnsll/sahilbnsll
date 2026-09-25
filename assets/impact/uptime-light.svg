@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="104" viewBox="0 0 150 104" role="img" aria-labelledby="t d" fill="none">
+<title id="t">99.99% — uptime</title>
+<desc id="d">99.99%: SFTP platform 500+ merchants</desc>
+<defs><style>
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style></defs>
+
+<rect x="0.5" y="0.5" width="149" height="103" rx="12" fill="#ffffff" stroke="#e4e6ea" stroke-width="1"/>
+<circle cx="19" cy="23" r="2.5" fill="#16a34a"/>
+<text x="27" y="27" fill="#6b7280" font-size="10" letter-spacing="1.1" textLength="41.5" lengthAdjust="spacing" style="font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace">UPTIME</text>
+<text x="15" y="61" fill="#0a0a0a" font-size="27" font-weight="700" letter-spacing="-0.5" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">99.99%</text>
+<text x="16" y="80" fill="#3f444d" font-size="11" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">SFTP platform</text>
+<text x="16" y="94" fill="#6b7280" font-size="11" style="font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif">500+ merchants</text>
+</svg>
